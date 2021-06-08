@@ -1,3 +1,8 @@
+# Todos Project
+This is a Todos project, made with svelte, using https://svelte.dev/examples#each-block-bindings and building onto it.
+
+---
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
